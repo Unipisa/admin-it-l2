@@ -6,7 +6,7 @@ We manually simplified 134 sentences by focusing on the linguistic traits that e
 
 Admin-It-L2 counts **134 pairs of sentences** extracted from the texts used in this study (34 sentences) and from Admin-It RS} (100 sentences), a subsection of [Admin-It](https://github.com/Unipisa/admin-It), a parallel corpus of Italian administrative texts (Miliani et al., 2022b). All these sentences were manually simplified based on the linguistic traits of the administrative language. Then, they were further manipulated to produce a simplification close to the needs of Italian L2 speakers.
 
-In the ```.txt file```, each row contains three sentences divided by a ```\tab``` separator: the original sentence, the one obtained by the first simplification and the sentence were the simplification is tailored for Italian L2 speakers.
+In the ```.txt```  file, each row contains three sentences divided by a ```\tab``` separator: the original sentence, the one obtained by the first simplification and the sentence were the simplification is tailored for Italian L2 speakers.
 
 ### Limitations
 
