@@ -8,17 +8,17 @@ Admin-It-L2 counts **134 pairs of sentences** extracted from the texts used in t
 
 In the ```.txt```  file, each row contains three sentences divided by a ```\tab``` separator: the original sentence, the one obtained by the first simplification and the sentence were the simplification is tailored for Italian L2 speakers.
 
-### Limitations
-
-In future work, we plan to validate the corpus by evaluating the simplification involving human annotators, specifically domain experts and Italian L2 speakers.
-
-#### References
+### References
 
 * Miliani, M., Senaldi, M. S., Lebani, G. E., & Lenci, A. (2022). [Understanding Italian Administrative Texts: A Reader-Oriented Study for Readability Assessment and Text Simplification](https://ceur-ws.org/Vol-3285/paper5.pdf). In Proceedings of the 1st Workshop on AI for Public Administration (AIxPA), November 28-December 2, 2022, Udine, Italy.
 * Miliani, M., Auriemma, S., Alva-Manchego, F., & Lenci, A. (2022, November). [Neural readability pairwise ranking for sentences in Italian administrative language](https://aclanthology.org/2022.aacl-main.63/). In Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (pp. 849-866).
 
+### Limitations
 
-## Citation
+The validation of the simplification through an evaluation that involves human annotators, i.e., domain experts and Italian L2 speakers, is planned for future work.
+
+
+### Citation
 
 If you use Admin-It-L2 in your research, please cite our paper:
 
